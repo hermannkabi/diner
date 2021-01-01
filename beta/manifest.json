@@ -1,11 +1,11 @@
 {
-    "name": "Diner - A Voting App",
-    "short_name": "Diner",
+    "name": "diner",
+    "short_name": "diner",
     "start_url": "./",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Diner is a voting app.",
+    "description": "A new Flutter application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
