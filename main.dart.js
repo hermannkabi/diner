@@ -35351,7 +35351,7 @@ Y.a6O.prototype={
 $0:function(){var s=0,r=P.G(t.P)
 var $async$$0=P.B(function(a,b){if(a===1)return P.C(b,r)
 while(true)switch(s){case 0:s=2
-return P.J(T.abb("https://hermannkabi.github.io/diner"),$async$$0)
+return P.J(T.abb("https://hermannkabi.github.io/diner/app"),$async$$0)
 case 2:return P.D(null,r)}})
 return P.E($async$$0,r)},
 $S:4}

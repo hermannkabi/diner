@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Diner is a voting app. Version 2.3 (Add Diners)",
+    "description": "Diner is a voting app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
